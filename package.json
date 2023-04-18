@@ -1,0 +1,26 @@
+{
+  "name": "@drmalus/json-file",
+  "version": "1.0.1",
+  "description": "Simple and easy Json file read/write package (utf8 compatible)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmalus/node-json-file.git"
+  },
+  "keywords": [
+    "json",
+    "json utf8"
+  ],
+  "author": "drmalus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drmalus/node-json-file/issues"
+  },
+  "homepage": "https://github.com/drmalus/node-json-file#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
